@@ -1,6 +1,6 @@
 export const ROLES = [
   {
-    name: "user",
-    displayName: "User",
+    name: "SuperAdmin",
+    displayName: "Super Admin",
   },
 ];

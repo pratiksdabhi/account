@@ -1,150 +1,150 @@
 [
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "User",
     "action": "read:own",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "User",
     "action": "create:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "User",
     "action": "update:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "User",
     "action": "delete:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "User",
     "action": "read:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Order",
     "action": "read:own",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Order",
     "action": "create:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Order",
     "action": "update:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Order",
     "action": "delete:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Order",
     "action": "read:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Customer",
     "action": "read:own",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Customer",
     "action": "create:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Customer",
     "action": "update:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Customer",
     "action": "delete:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Customer",
     "action": "read:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Address",
     "action": "read:own",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Address",
     "action": "create:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Address",
     "action": "update:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Address",
     "action": "delete:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Address",
     "action": "read:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Product",
     "action": "read:own",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Product",
     "action": "create:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Product",
     "action": "update:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Product",
     "action": "delete:any",
     "attributes": "*"
   },
   {
-    "role": "user",
+    "role": "SuperAdmin",
     "resource": "Product",
     "action": "read:any",
     "attributes": "*"
